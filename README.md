@@ -1,9 +1,10 @@
 # Historical Places of India
 
-web.dev is the ultimate resource for developers of all backgrounds to learn, create, and solve on the web. 
-It's meant to not only educate developers, but help them apply what they've learned to any site they work on, be it personal or business.
+Made page showing historic places of India. Upon
+clicking on any one of the image, it redirects the user to the wikipedia of the that
+place.
+At last our Nation Anthem song is also attached to it by clicking on audio player Nation Anthem start playing.
 
-This project is basically about a web page which contains historical places of India.
 
 
 ## 🚀 About Me
