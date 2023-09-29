@@ -1,4 +1,4 @@
-# web_dev_project
+# Historical Places of India
 
 web.dev is the ultimate resource for developers of all backgrounds to learn, create, and solve on the web. 
 It's meant to not only educate developers, but help them apply what they've learned to any site they work on, be it personal or business.
