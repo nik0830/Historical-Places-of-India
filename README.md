@@ -15,11 +15,3 @@ I'm Nikhil Kumar currently pursuing BTECH in COMPUTER SCIENCE AND ENGINEERING fr
 I am enthusiastic and hard working Man with a good sense of humor, and a passion for technology.
 My goal is to become a successful SOFTWARE ENGINEER. The best way to predict the future is to create it.
 
-
-
-
-## 🚀 About Me
-I'm Nikhil Kumar currently pursuing BTECH in COMPUTER SCIENCE AND ENGINEERING from BIT MESRA. 
-I am enthusiastic and hard working Man with a good sense of humor, and a passion for technology.
-My goal is to become a successful SOFTWARE ENGINEER. The best way to predict the future is to create it.
-
